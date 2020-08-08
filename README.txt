@@ -1,3 +1,6 @@
+Note that the Jupyter Notebook can be executed like an ordinary Python script once you fill in your Nextcloud and e-mail info.
+Every cell only needs to be executed only once, in order. The format was only chosen because it's easier to annotate.
+
 Formatting matters in this script. I recommend you use the example CSV "User_List.csv" as a template and enter your own data
 into it to avoid having to change to code. In case you don't feel like restructuring your csv it should be enough to change
 the headers as shown below.
